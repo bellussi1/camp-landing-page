@@ -1,0 +1,28 @@
+```
+Landing Base Animada e Interativa
+Bem-vindo(a) ao projeto da Landing Base Animada e Interativa! Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript vanilla para criar uma página de destino (landing page) cativante e interativa.
+
+
+Visão Geral
+Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
+
+Funcionalidades Principais
+Animações Suaves: Utilizamos técnicas de animação em CSS para adicionar vida à página sem comprometer a performance.
+Interatividade: Elementos interativos convidam os usuários a explorar e engajar-se com o conteúdo.
+Responsividade: A página é totalmente responsiva, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+Como Utilizar
+Clone este repositório em sua máquina local:
+bash
+Copy code
+git clone https://github.com/Bellussi1/camp-landing-page.git
+Abra o arquivo index.html em seu navegador web preferido.
+Explore a página e adapte-a conforme suas necessidades. Sinta-se à vontade para personalizar o conteúdo, as cores e as animações de acordo com a identidade visual do seu projeto.
+Contribuindo
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT.
+
+Contato
+Para mais informações ou dúvidas, entre em contato com enzobellussifam@gmail.com 
+```
