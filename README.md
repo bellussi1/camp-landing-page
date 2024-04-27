@@ -1,6 +1,7 @@
 
-# Landing Base Animada e Interativa
-Bem-vindo(a) ao projeto da Landing Base Animada e Interativa! Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript vanilla para criar uma página de destino (landing page) cativante e interativa.
+# Sobre
+Camp é uma landing page Animada e Interativa! Este é um projeto desenvolvido utilizando HTML, CSS e JavaScript vanilla para criar uma página de destino.
+Você pode acessá-lo com este [link]([https://github.com](https://bellussi1.github.io/camp-landing-page/)).
 
 ## Visão Geral
 Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
